@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.row{
+  height: 10vh;
+}
+body{
+  height: 100%;
+}
